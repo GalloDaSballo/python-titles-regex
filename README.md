@@ -1,4 +1,4 @@
-# Python Regex
+# Python Regex
 
 Scrapes Markdown titles
 
